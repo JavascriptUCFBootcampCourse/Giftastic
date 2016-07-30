@@ -1,0 +1,32 @@
+button {
+
+	margin: 8px;
+}
+
+div {
+	margin: 8px;
+}
+
+.animal-input {
+	font: 12px;
+}
+
+#addAnimal{
+
+/* float: right; */
+}
+
+#width {
+
+/* width: 100%; */
+
+display: inline-flex;
+
+/* overflow: auto; */
+
+flex: 10;
+}
+
+#container {
+	padding: 10px;
+}
